@@ -23,7 +23,7 @@ g++ main.cpp -o caja
 
 ## Enlaces
 - Repositorio: https://github.com/MAHO-67/proyectofinal-27902627714
-- Video Demostración: PENDIENTE SUBIR A YOUTUBE
+- Video Demostración:https://youtu.be/2Xn_aqEeAhs?si=P23pdG8m7YGp_ic4
 
 ## Uso de IA
 Herramienta: Meta AI
